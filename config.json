@@ -570,9 +570,9 @@
       "name": "🔞香奶儿资源",
       "api": "https://www.gdlsp.com/api/json.php",
       "detail": "https://www.gdlsp.com"
-    }
-   },
-"custom_category": [
+ }
+  },
+  "custom_category": [
     {
       "name": "热门",
       "type": "movie",
@@ -753,5 +753,5 @@
       "type": "tv",
       "query": "纪录片"
     }
-  }
+  ]
 }
